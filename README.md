@@ -1,7 +1,7 @@
 ### Tmux Configuration 
     
-    One of the coolest thing about tmux is completely configurable so you can customize the way you interact
-    with and the way it looks
+One of the coolest thing about tmux is completely configurable so you can customize the way you interact
+with and the way it looks
 
 ----
  When tmux is started, it loads the system configuration file from /etc/tmux.conf Then looks for a user configuration file at ~/.tmux.conf  
